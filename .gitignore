@@ -2,3 +2,6 @@ key.txt
 key_base64.txt
 juanlu
 data
+__pycache__
+.ipynb_checkpoints
+.DS_Store
